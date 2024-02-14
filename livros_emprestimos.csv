@@ -1,0 +1,11 @@
+ID_Livro, Titulo, Autor, Ano_Publicacao, Genero, Quantidade_Disponivel,ID_Emprestimo, ID_Cliente, ID_Livro, Data_Emprestimo, Data_Devolucao
+1, Dom Quixote, Miguel de Cervantes,1605, Romance,10,1.0,101.0,3.0, 2024-02-01, 2024-02-15
+2, 1984, George Orwell,1949, Ficção Científica,8,2.0,102.0,7.0, 2024-02-03, 2024-02-17
+3, Orgulho e Preconceito, Jane Austen,1813, Romance,6,3.0,103.0,5.0, 2024-02-05, 2024-02-20
+4, O Pequeno Príncipe, Antoine de Saint-Exupéry,1943, Fábula,12,4.0,104.0,1.0, 2024-02-08, 2024-02-22
+5, A Revolução dos Bichos, George Orwell,1945, Sátira,7,5.0,105.0,8.0, 2024-02-10, 2024-02-25
+6, Crime e Castigo, Fyodor Dostoevsky,1866, Romance,9,,,,,
+7, O Senhor dos Anéis: A Sociedade do Anel, J.R.R. Tolkien,1954, Fantasia,11,,,,,
+8, Harry Potter e a Pedra Filosofal, J.K. Rowling,1997, Fantasia,15,,,,,
+9, Cem Anos de Solidão, Gabriel García Márquez,1967, Realismo Mágico,5,,,,,
+10, O Diário de Anne Frank, Anne Frank,1947, Biografia,4,,,,,

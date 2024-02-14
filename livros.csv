@@ -1,0 +1,11 @@
+ID_Livro, Titulo, Autor, Ano_Publicacao, Genero, Quantidade_Disponivel
+1, Dom Quixote, Miguel de Cervantes, 1605, Romance, 10
+2, 1984, George Orwell, 1949, Ficção Científica, 8
+3, Orgulho e Preconceito, Jane Austen, 1813, Romance, 6
+4, O Pequeno Príncipe, Antoine de Saint-Exupéry, 1943, Fábula, 12
+5, A Revolução dos Bichos, George Orwell, 1945, Sátira, 7
+6, Crime e Castigo, Fyodor Dostoevsky, 1866, Romance, 9
+7, O Senhor dos Anéis: A Sociedade do Anel, J.R.R. Tolkien, 1954, Fantasia, 11
+8, Harry Potter e a Pedra Filosofal, J.K. Rowling, 1997, Fantasia, 15
+9, Cem Anos de Solidão, Gabriel García Márquez, 1967, Realismo Mágico, 5
+10, O Diário de Anne Frank, Anne Frank, 1947, Biografia, 4
